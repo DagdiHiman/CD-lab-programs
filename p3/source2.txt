@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+void main()
+{
+	int a=1s,b,h;
+	a=a+b;
+	a=a+/b+h;
+	1a=7+j-;
+	a=;
+	b=b+*;
+}
