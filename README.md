@@ -26,7 +26,7 @@ or compiling lex and yacc together
 1. write lex program in a file ```file.l``` and yacc in a file ```file.y```
 2. open the terminal and navigate to the directory where you have saved the files.
 3. type ```lex filename.l```
-4. type ```yacc filename.y```
+4. type ```yacc -d filename.y```
 5. type ```cc lex.yy.c y.tab.c -lfl```
 6. type ```./a.out```
 
