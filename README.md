@@ -2,16 +2,16 @@
 2020 Compiler Design Lab Programs
 
 Ubuntu does not come installed with a lex and yacc compiler to do so install it first by
-1. Open the terminal
+1. Opening the terminal
 2. type  ```sudo apt-get install flex```
 3. enter your password
 
 after installation of flex finishes
 
 4. type ```sudo apt-get install bison```
-5. enter your pasword.
+5. enter your password.
 
-Successfully  Lex and Yacc have been installed on your system.
+Lex and Yacc have been Successfully installed on your system.
 
 Running a Lex and Yacc program                
 1. write the lex program in a file and save it as  ```file.l```
@@ -20,7 +20,7 @@ Running a Lex and Yacc program
 4. then type  ```cc lex.yy.c -lfl```
 5. then type  ```./a.out```
 
-Your lex progam will be running now (comment should be correct).
+Your lex program will be running now (comment should be correct).
 or compiling lex and yacc together
 
 1. write lex program in a file ```file.l``` and yacc in a file ```file.y```
